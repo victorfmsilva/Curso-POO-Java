@@ -1,10 +1,25 @@
-package Aula05B.Aula04B;
+package Aula05B;
 
-public class Aula04 {
+public class Aula05 {
     public static void main(String[] args) {
-        Caneta c1 = new Caneta("bic 123", 0.4f); //eu passo o modelo como parametro no meu construtor e quando eu instancio eu so passo o valor para atribuir.
-        Caneta c2 = new Caneta("bic 421", 0.8f);
+        ContaBanco p1 = new ContaBanco();
+        p1.setNumConta(1111);
+        p1.setDono("Jubileu");
+        p1.abrirConta("CC");
 
-//        c1.setModelo("Bic"); //aqui eu chamo a instancia e seto o valor.
+
+        ContaBanco p2 = new ContaBanco();
+        p2.setNumConta(2222);
+        p2.setDono("Cleuza");
+        p2.abrirConta("CP");
+
+        p1.depositar(100);
+        p2.depositar(500);
+
+        p1.sacar(150);
+        p1.fecharConta();
+
+        p1.estadoAtual();
+        p2.estadoAtual();
     }
 }
