@@ -1,0 +1,21 @@
+
+I
+src/Aula01B/OlaMundo.java,0/6/062d29d2379073713d9a2cce5d474e5e309388a2
+G
+src/Aula02B/Caneta.java,2/f/2fda8ca3ab452a7ce314c16c1e7431a5fbce5af9
+G
+src/Aula02B/Aula02.java,4/b/4b7d5aab8b0a98aebdddf6d45f89a3c6990bc2c2
+G
+src/Aula03B/Aula03.java,1/f/1fe3c2a6342e9bf81f58d8eb733746b97b3c784b
+G
+src/Aula03B/Caneta.java,b/9/b9f685e0332780bc1e55e9a3fa0c9e6eb03073aa
+G
+src/Aula04B/Aula04.java,a/d/ad21d3b822afc9bd2606c7064c830beb8f220b03
+G
+src/Aula04B/Caneta.java,c/a/ca7c844bb4e42d92f930749a22f01ae3adcc9dd4
+9
+	Readme.md,0/c/0c1945d7443c2e154bd3e421c0d438bd4086d8c3
+G
+src/Aula05B/Aula05.java,b/0/b0fe51a36133a2f2455adfe5e3100594ded86f3c
+K
+src/Aula05B/ContaBanco.java,d/1/d1be25924b79543b06139155fb1f998c7827128b

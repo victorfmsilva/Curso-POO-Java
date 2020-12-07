@@ -1,0 +1,11 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ãïë¦úÿÿÿÿ8åú‡şá.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(†İ‚8ÕÜÛıá.
+J
+java:S1125"(Remove the literal "true" boolean value.(¦İ§êùÿÿÿÿ8„ù†şá.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ë¥Â8¾øåıá.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ö’“ıÿÿÿÿ8¢Ô‰şá.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÖãä8ˆ³ìıá.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒÕ¨«ıÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÅõ›şÿÿÿÿ8ƒÙŞıá.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(î˜ñã8¾øåıá.
