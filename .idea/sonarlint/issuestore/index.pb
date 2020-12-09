@@ -29,5 +29,3 @@ E
 src/Aula07B/Luta.java,e/9/e94701e0626e95eeff3213fc2d73008e6d4847ce
 H
 src/Aula07B/Lutador.java,8/1/8142b5364312a586bc36ae119e9fb01c2f8de1d8
-G
-src/Aula07B/Aula07.java,e/4/e4e9931ba80bb9295e4997995a0d421ec7ac1c7e

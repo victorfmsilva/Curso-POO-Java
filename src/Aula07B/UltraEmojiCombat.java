@@ -14,7 +14,7 @@ public class UltraEmojiCombat {
         Luta UEC01 = new Luta();
         UEC01.marcarLuta(l[3],l[2]);
         UEC01.lutar();
-        l[3].Status();
+        l[1].Status();
         l[2].Status();
     }
 }
