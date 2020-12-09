@@ -1,0 +1,17 @@
+
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(°©ç²8çÊë÷ã.
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(äú†úÿÿÿÿ8áÀñ÷ã.
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(­¬Ùî8çÊë÷ã.
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(ŠÉÊ¤ûÿÿÿÿ8°´ˆøã.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(÷åãÖ8ŞÈŠøã.
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(âÅçŠıÿÿÿÿ8ö´ï÷ã.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„©÷8÷©†øã.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í¼îóøÿÿÿÿ
+U	java:S106y"9Replace this use of System.out or System.err by a logger.(íÑ¯‚8çÊë÷ã.
+Z	java:S106v"9Replace this use of System.out or System.err by a logger.(ÂÃ·şÿÿÿÿ8ö´ï÷ã.
+b	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(§èªæüÿÿÿÿ8çâ©÷ã.
+Z	java:S106}"9Replace this use of System.out or System.err by a logger.(µÏŸğşÿÿÿÿ8¼¾û÷ã.
+U	java:S106~"9Replace this use of System.out or System.err by a logger.(ÏËÃ8½ü÷ã.
+j	java:S100|"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç²ŠÔ8ôê ÷ã.
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(Šû‘Âÿÿÿÿÿ8çÊë÷ã.
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(¯Ö»‘øÿÿÿÿ8çÊë÷ã.

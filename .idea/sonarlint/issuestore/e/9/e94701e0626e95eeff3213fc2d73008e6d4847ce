@@ -1,0 +1,14 @@
+
+L
+java:S1068"*Remove this unused "rounds" private field.(º»Ûîÿÿÿÿÿ8õ Íøã.
+O
+java:S1068"-Remove this unused "desafiado" private field.(şù¯íøÿÿÿÿ8õ Íøã.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í¼îóøÿÿÿÿ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ùºö8õ®Òøã.
+I
+java:S1068",Remove this unused "aprovada" private field.(ÀÃñç8õ Íøã.
+£
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÏÃ†Ôùÿÿÿÿ8¶¹Ñøã.
+P
+java:S1068".Remove this unused "desafiante" private field.(äîÊ üÿÿÿÿ8õ Íøã.

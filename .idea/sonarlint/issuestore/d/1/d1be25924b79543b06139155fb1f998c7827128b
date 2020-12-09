@@ -1,30 +1,30 @@
 
-U	java:S106"9Replace this use of System.out or System.err by a logger.(„úïÜ8ô¢ıñâ.
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(Ç¸şàøÿÿÿÿ8¶ˆôÓâ.
-U	java:S106%"9Replace this use of System.out or System.err by a logger.(ØîÏï8çœÏñâ.
-V
-java:S4973"9Use the "equals" method if value comparison was intended.(âŞÍÂ8àÅºÏâ.
-[
-java:S4973"9Use the "equals" method if value comparison was intended.(ºªóşÿÿÿÿÿ8ÈÓ±Ïâ.
+U	java:S106="9Replace this use of System.out or System.err by a logger.(œ‹í™8›àÙÔâ.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(šàÁ÷ÿÿÿÿÿ8ô¢ıñâ.
-Z	java:S106;"9Replace this use of System.out or System.err by a logger.(ÔÓÉæøÿÿÿÿ8Âöèñâ.
+[
+java:S49736"9Use the "equals" method if value comparison was intended.(ÚƒÌğşÿÿÿÿ8º“¿Ôâ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(€š¼ğ8İãùñâ.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(‹ò©ğ8ê†×ñâ.
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(Óµl8Í×ªÔâ.
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(‹Éª·8˜‰©Ôâ.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(Ç¸şàøÿÿÿÿ8¶ˆôÓâ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.( áÊª8İãùñâ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„úïÜ8ô¢ıñâ.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ØîÏï8çœÏñâ.
+E
+java:S1125*"(Remove the literal "true" boolean value.(äçÉá8øáüÓâ.
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(İ³ĞÕûÿÿÿÿ8ÛûÜñâ.
+[
+java:S49734"9Use the "equals" method if value comparison was intended.(üà§ûÿÿÿÿ8åÿºÔâ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”‹µï8İãùñâ.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ØÑ¤o
 q
 java:S1104"TMake numConta a static final constant or non-public and provide accessors if needed.(Öê¢…8ÄòùÎâ.
 [
-java:S49734"9Use the "equals" method if value comparison was intended.(üà§ûÿÿÿÿ8åÿºÔâ.
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ØÑ¤o
-U	java:S106."9Replace this use of System.out or System.err by a logger.(‹ò©ğ8ê†×ñâ.
-[
-java:S49736"9Use the "equals" method if value comparison was intended.(ÚƒÌğşÿÿÿÿ8º“¿Ôâ.
-T	java:S106 "9Replace this use of System.out or System.err by a logger.(ÊÜËK8“õÀÏâ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.( áÊª8İãùñâ.
-Z	java:S106,"9Replace this use of System.out or System.err by a logger.(áäÙßüÿÿÿÿ8å£Ôñâ.
-E
-java:S1125*"(Remove the literal "true" boolean value.(äçÉá8øáüÓâ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(€š¼ğ8İãùñâ.
-U	java:S106G"9Replace this use of System.out or System.err by a logger.(‹Éª·8˜‰©Ôâ.
-Z	java:S106E"9Replace this use of System.out or System.err by a logger.(İ³ĞÕûÿÿÿÿ8ÛûÜñâ.
+java:S4973"9Use the "equals" method if value comparison was intended.(ºªóşÿÿÿÿÿ8ÈÓ±Ïâ.
+V
+java:S4973"9Use the "equals" method if value comparison was intended.(âŞÍÂ8àÅºÏâ.
 U	java:S106"9Replace this use of System.out or System.err by a logger.(òÔÇÍ8İãùñâ.
-U	java:S106="9Replace this use of System.out or System.err by a logger.(œ‹í™8›àÙÔâ.
-S	java:S106J"9Replace this use of System.out or System.err by a logger.(Óµl8Í×ªÔâ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(”‹µï8İãùñâ.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(ÔÓÉæøÿÿÿÿ8Âöèñâ.
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(ÊÜËK8“õÀÏâ.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(áäÙßüÿÿÿÿ8å£Ôñâ.

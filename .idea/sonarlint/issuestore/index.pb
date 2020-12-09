@@ -19,3 +19,15 @@ G
 src/Aula05B/Aula05.java,b/0/b0fe51a36133a2f2455adfe5e3100594ded86f3c
 K
 src/Aula05B/ContaBanco.java,d/1/d1be25924b79543b06139155fb1f998c7827128b
+O
+src/Aula06B/ControleRemoto.java,7/a/7af6d64009aa397dc4cd4666c5bb79aed61d0a7d
+G
+src/Aula06B/Aula06.java,f/2/f23babad01b333d061804854397f7562f59c7798
+L
+src/Aula06B/Controlador.java,2/c/2c14a51953462c1065feba0289c47076861102a1
+E
+src/Aula07B/Luta.java,e/9/e94701e0626e95eeff3213fc2d73008e6d4847ce
+H
+src/Aula07B/Lutador.java,8/1/8142b5364312a586bc36ae119e9fb01c2f8de1d8
+G
+src/Aula07B/Aula07.java,e/4/e4e9931ba80bb9295e4997995a0d421ec7ac1c7e

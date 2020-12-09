@@ -1,0 +1,32 @@
+
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(×ïï§8„ÿôã.
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(›Õß¡şÿÿÿÿ8ôŠöã.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ğ¿–Ùøÿÿÿÿ8ÕÏüõã.
+E
+java:S1125a"(Remove the literal "true" boolean value.(Çó†ë8Îõã.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(¸Œà­øÿÿÿÿ8ÿ¸•ôã.
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(µĞÚü8³•öã.
+D
+java:S1125j"(Remove the literal "true" boolean value.(Æ›¿ 8Îõã.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(æÀù8áÙñõã.
+B
+java:S34576"%String contains no format specifiers.(×ïï§8¤±€öã.
+J
+java:S1125A"(Remove the literal "true" boolean value.(ÒÁğæıÿÿÿÿ8§ç±ôã.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´›»¢ùÿÿÿÿ
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(İß›„ûÿÿÿÿ8ñüöã.
+D
+java:S1125j"(Remove the literal "true" boolean value.(Æ›¿ 8Îõã.
+E
+java:S1125Z"(Remove the literal "true" boolean value.(šï×8Îõã.
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(å£¥8ôñ—ôã.
+E
+java:S1125a"(Remove the literal "true" boolean value.(Çó†ë8Îõã.
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(¬Ê¸úûÿÿÿÿ8åµ£ôã.
+F
+java:S1125J")Remove the literal "false" boolean value.(¾òÍØ8Îõã.
+J
+java:S1125S"(Remove the literal "true" boolean value.(¦Ë³öøÿÿÿÿ8Îõã.
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8æßğõã.
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(úì§Èøÿÿÿÿ8Äã™öã.
